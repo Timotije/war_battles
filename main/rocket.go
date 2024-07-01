@@ -64,7 +64,7 @@ embedded_components {
   "    count: 3\n"
   "    id: \"\"\n"
   "  }\n"
-  "  data: 9.0\n"
+  "  data: 8.5\n"
   "  data: 3.0\n"
   "  data: 10.0\n"
   "}\n"
