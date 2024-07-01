@@ -68,8 +68,8 @@ embedded_instances {
   "}\\n"
   "\"\n"
   "  position {\n"
-  "    x: 141.0\n"
-  "    y: 157.0\n"
+  "    x: 1.0\n"
+  "    y: -2.0\n"
   "    z: 0.0\n"
   "  }\n"
   "  rotation {\n"
@@ -100,8 +100,8 @@ embedded_instances {
   "}\n"
   ""
   position {
-    x: 0.0
-    y: 0.0
+    x: 114.0
+    y: 130.0
     z: 1.0
   }
   rotation {
