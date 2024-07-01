@@ -15,6 +15,6 @@ key_trigger {
   action: "right"
 }
 key_trigger {
-  input: KEY_BACKSPACE
+  input: KEY_SPACE
   action: "fire"
 }
